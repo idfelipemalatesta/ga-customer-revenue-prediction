@@ -1,7 +1,7 @@
 # Google Analytics Customer Revenue Prediction
 
 ## About the repository
-In this competition, you’re challenged to analyze a Google Merchandise Store (also known as GStore, where Google swag is sold) customer dataset to predict revenue per customer. 
+This project is a kaggle community competition [Google Analytics Customer Revenue Prediction](https://www.kaggle.com/competitions/ga-customer-revenue-prediction/overview). In this competition, you’re challenged to analyze a Google Merchandise Store (also known as GStore, where Google swag is sold) customer dataset to predict revenue per customer. 
 
 Submissions are scored on the root mean squared error (RMSE).
 
